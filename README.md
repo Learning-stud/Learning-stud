@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate Learning FullStack Developer from india</h3>
-<img align="right " alt="Coding " width="400 " src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif "></img>
+<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"
+       alt="Coding Illustration"
+       width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learning-stud&label=Profile%20views&color=0e75b6&style=flat" alt="learning-stud" /> </p>
 
