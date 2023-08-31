@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/widd_jay" target="blank"><img src="https://img.shields.io/twitter/follow/widd_jay?logo=twitter&style=for-the-badge" alt="widd_jay" /></a> </p>
 
-- 🔭 I’m currently working on **Nike Clone**
+- 🔭 I’m currently working on **Learning**
 
 - 🌱 I’m currently learning **FullStack DevelopMent**
 
